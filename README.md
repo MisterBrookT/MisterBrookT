@@ -2,12 +2,16 @@
 
 ### Building
 
-- **Mira** — an AI-native notebook. Radically lightweight; a mirror that observes and reflects you.
-- **Paper Plot** — publication-quality charts and considered sketches for papers, in seconds.
+**Mira** — an AI-native notebook. Radically lightweight; a mirror that observes and reflects you.
+
+**Paper Plot** — publication-quality charts and considered sketches for papers, in seconds.
 
 ### Find me
 
-[doabit.cc](https://doabit.cc) &nbsp;&middot;&nbsp; [The Bit Letter](https://buttondown.com/bubul0vee) &nbsp;&middot;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=FXixw64AAAAJ) &nbsp;&middot;&nbsp; [Coffee chat](https://doabit.cc/contact)
+[![Website](https://img.shields.io/badge/doabit.cc-2a211a?style=for-the-badge&logo=vercel&logoColor=d97757)](https://doabit.cc)
+[![The Bit Letter](https://img.shields.io/badge/The_Bit_Letter-2a211a?style=for-the-badge&logo=substack&logoColor=d97757)](https://buttondown.com/bubul0vee)
+[![Scholar](https://img.shields.io/badge/Scholar-2a211a?style=for-the-badge&logo=googlescholar&logoColor=d97757)](https://scholar.google.com/citations?user=FXixw64AAAAJ)
+[![Email](https://img.shields.io/badge/Email-2a211a?style=for-the-badge&logo=gmail&logoColor=d97757)](mailto:yinghaotang2001@gmail.com)
 
 <br>
 
