@@ -1,0 +1,14 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a211a"/>
+      <stop offset="100%" stop-color="#181210"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <text x="80" y="122" font-family="Georgia, 'Songti SC', 'Noto Serif SC', serif" font-size="68" fill="#ece3d4" letter-spacing="2">Bubu <tspan fill="#b08d57">/</tspan> 布布</text>
+  <text x="83" y="170" font-family="Georgia, serif" font-size="25" font-style="italic" fill="#d97757">AI-native independent developer</text>
+  <line x1="83" y1="200" x2="300" y2="200" stroke="#b08d57" stroke-width="1" opacity="0.55"/>
+  <text x="83" y="228" font-family="ui-monospace, SFMono-Regular, monospace" font-size="15" fill="#ece3d4" opacity="0.5" letter-spacing="3">HCI × VISUALIZATION × AI AGENTS</text>
+  <text x="1120" y="115" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" fill="#b08d57" opacity="0.7" letter-spacing="6">AI-NATIVE STUDIO</text>
+</svg>
