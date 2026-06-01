@@ -1,10 +1,6 @@
 <img src="banner.svg" alt="Bubu — AI-native independent developer" width="100%" />
 
-### Building
-
-**Mira** — an AI-native notebook. Radically lightweight; a mirror that observes and reflects you.
-
-**Paper Plot** — publication-quality charts and considered sketches for papers, in seconds.
+I'm an **AI-native independent developer** — and a CS PhD. I build open-source projects and products that help people work and live a little better with AI, starting with the tools I need myself.
 
 ### Find me
 
