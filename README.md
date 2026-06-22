@@ -4,10 +4,10 @@ I'm an **AI-native independent developer** — and a CS PhD. I build open-source
 
 ### Find me
 
-[![Website](https://img.shields.io/badge/doabit.dev-2a211a?style=for-the-badge&logo=vercel&logoColor=d97757)](https://doabit.dev)
-[![The Bit Letter](https://img.shields.io/badge/The_Bit_Letter-2a211a?style=for-the-badge&logo=substack&logoColor=d97757)](https://buttondown.com/bubul0vee)
-[![Scholar](https://img.shields.io/badge/Scholar-2a211a?style=for-the-badge&logo=googlescholar&logoColor=d97757)](https://scholar.google.com/citations?user=FXixw64AAAAJ)
-[![Email](https://img.shields.io/badge/Email-2a211a?style=for-the-badge&logo=gmail&logoColor=d97757)](mailto:yinghaotang2001@gmail.com)
+[![Website](https://img.shields.io/badge/doabit.dev-FDFBF6?style=for-the-badge&logo=vercel&logoColor=F25C05&labelColor=FDFBF6)](https://doabit.dev)
+[![The Bit Letter](https://img.shields.io/badge/The_Bit_Letter-FDFBF6?style=for-the-badge&logo=substack&logoColor=F25C05&labelColor=FDFBF6)](https://buttondown.com/bubul0vee)
+[![Scholar](https://img.shields.io/badge/Scholar-FDFBF6?style=for-the-badge&logo=googlescholar&logoColor=F25C05&labelColor=FDFBF6)](https://scholar.google.com/citations?user=FXixw64AAAAJ)
+[![Email](https://img.shields.io/badge/Email-FDFBF6?style=for-the-badge&logo=gmail&logoColor=F25C05&labelColor=FDFBF6)](mailto:yinghaotang2001@gmail.com)
 
 <br>
 
