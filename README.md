@@ -1,10 +1,14 @@
-<img src="banner.svg" alt="Bubu — less friction with the world, through AI" width="100%" />
+<p align="center">
+  <img src="assets/profile-card.png" alt="Bubu / 布布 — CS PhD working on HCI, visualization, and AI agents" width="100%" />
+</p>
 
-I'm Bubu — a CS PhD at Zhejiang University. I build tools and write about using AI to take the friction out of everyday work, so people get more time to actually live.
+I’m building an AI for Public Good community.
 
-### Find me
+Mission: help people across different industries use AI better.
 
-[![Website](https://img.shields.io/badge/doabit.dev-FDFBF6?style=for-the-badge&logo=vercel&logoColor=F25C05&labelColor=FDFBF6)](https://doabit.dev)
-[![The Bit Letter](https://img.shields.io/badge/The_Bit_Letter-FDFBF6?style=for-the-badge&logo=substack&logoColor=F25C05&labelColor=FDFBF6)](https://buttondown.com/bubul0vee)
-[![Scholar](https://img.shields.io/badge/Scholar-FDFBF6?style=for-the-badge&logo=googlescholar&logoColor=F25C05&labelColor=FDFBF6)](https://scholar.google.com/citations?user=FXixw64AAAAJ)
-[![Email](https://img.shields.io/badge/Email-FDFBF6?style=for-the-badge&logo=gmail&logoColor=F25C05&labelColor=FDFBF6)](mailto:yinghaotang2001@gmail.com)
+CS PhD at Zhejiang University. Working across HCI, visualization, and AI agents.
+
+**Find me:** [The Bit Letter](https://buttondown.com/bubul0vee) · [Scholar](https://scholar.google.com/citations?user=FXixw64AAAAJ) · [Email](mailto:yinghaotang@zju.edu.cn)
+
+**WeChat / Bonjour:** personal digital card  
+`#小程序://Bonjour/JHo8qQrsOEcbcpI`
