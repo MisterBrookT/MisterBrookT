@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/orbits.svg" width="500" alt="HCI, visualization, and AI agents intersect around public good">
+  <img src="assets/orbits.svg?v=2" width="360" alt="HCI, visualization, and AI agents intersect around public good">
 </p>
 
 <p align="center">
