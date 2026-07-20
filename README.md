@@ -1,4 +1,4 @@
-<h1 align="center">blackblue</h1>
+<h1 align="center">blackblue24</h1>
 
 <p align="center"><samp>HCI × VISUALIZATION × AI AGENTS</samp></p>
 
