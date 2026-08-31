@@ -1,6 +1,6 @@
 <h1 align="center">blackblue24</h1>
 
-<p align="center"><samp>HCI × VISUALIZATION × AI AGENTS</samp></p>
+<p align="center"><samp>HUMAN × VISUALIZATION × AI AGENTS</samp></p>
 
 <p align="center">
   CS PhD at Zhejiang University<br>
@@ -14,19 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/orbits.svg?v=2" width="360" alt="HCI, visualization, and AI agents intersect around public good">
-</p>
-
-<p align="center">
-  <samp>research</samp>&nbsp;&nbsp;
-  <a href="https://github.com/MisterBrookT/IGenBench">IGenBench <sup>ACL 2026</sup></a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/MisterBrookT/paper-skills">paper-skills</a>
-  <br><br>
-  <samp>build</samp>&nbsp;&nbsp;
-  <a href="https://github.com/MisterBrookT/skill2">skill2</a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/MisterBrookT/kaji">kaji</a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/MisterBrookT/vividoc">vividoc</a>
+  <img src="assets/orbits.svg?v=3" width="360" alt="Human, visualization, and AI agents intersect around public good">
 </p>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="100 0 360 220" role="img" aria-labelledby="title desc">
   <title id="title">blackblue research map</title>
-  <desc id="desc">Three overlapping rings connect HCI, visualization, and AI agents around public good.</desc>
+  <desc id="desc">Three overlapping rings connect human, visualization, and AI agents around public good.</desc>
   <style>
     .ring {
       fill: none;
@@ -34,7 +34,7 @@
   <circle class="ring" cx="330" cy="88" r="72"/>
   <circle class="ring" cx="280" cy="142" r="72"/>
 
-  <text class="label" x="199" y="68" text-anchor="middle">HCI</text>
+  <text class="label" x="199" y="68" text-anchor="middle">HUMAN</text>
   <text class="label" x="361" y="68" text-anchor="middle">AGENTS</text>
   <text class="label" x="280" y="181" text-anchor="middle">VIS</text>
 
