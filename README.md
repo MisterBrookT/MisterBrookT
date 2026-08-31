@@ -1,4 +1,4 @@
-<h1 align="center">blackblue24</h1>
+<h1 align="center">Brook Tang (Yinghao Tang)</h1>
 
 <p align="center"><samp>HUMAN × VISUALIZATION × AI AGENTS</samp></p>
 
